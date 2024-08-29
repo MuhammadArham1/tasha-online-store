@@ -1,0 +1,104 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.tagline{
+    width: 100%;
+    height: 35px;
+    background-color: #f2f2c0;
+    text-align: center;
+    line-height: 35px;
+    
+}
+.logo {
+    width: 100%;
+    height: 50px;
+    text-align: center;
+    margin-top: 15px;
+}
+.logo img {
+    width: 20%;
+    height: 38px;
+}
+.logo-set {
+    width: 60%;
+    height: 38px;
+}
+.img-set img{
+    height: 500px;
+}
+.card_box{
+    width: 100%;
+    height: 400px;
+    display: flex;
+}
+.card img :hover{
+    transform: scale(1.05) translateY(-3px); box-shadow: 1px 15px 35px -10px black;
+}
+.card_box1{
+    width: 100%;
+    height: 400px;
+    display: flex;
+}
+.card_box2{
+    width: 100%;
+    height: 400px;
+    display: flex;
+}
+.card_box3{
+    width: 100%;
+    height: 400px;
+    display: flex;
+}
+.card_box4{
+    width: 100%;
+    height: 400px;
+    display: flex;
+}
+.slider{
+    width: 100%;
+    height: 50px;
+    line-height: 20px;
+    margin-left: 10px;
+}
+.card_box5{
+    width: 100%;
+    height: 400px;
+    display: flex;
+}
+.card_box6{
+    width: 100%;
+    height: 400px;
+    display: flex;
+}
+.card_box7{
+    width: 100%;
+    height: 400px;
+    display: flex;
+}
+.card_box8{
+    width: 100%;
+    height: 400px;
+    display: flex;
+    margin-top: 20px;
+
+}
+.card_box8 a{
+    list-style: none;
+    text-decoration: none;
+    color: black;
+    margin-left: 85px;
+    
+    
+}
+.card_box9{
+    width: 100%;
+    height: 400px;
+    display: flex;
+}
+.card_box9 a{
+list-style: none;
+text-decoration: none;
+color: black;
+margin-left: 85px;
+}
